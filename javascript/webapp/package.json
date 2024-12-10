@@ -31,11 +31,11 @@
 		"check-deps": "essex check-deps"
 	},
 	"dependencies": {
-		"@datashaper/app-framework": "workspace:^",
-		"@datashaper/react": "workspace:^",
+		"@datashaper/app-framework": "0.0.1",
+		"@datashaper/react": "7.0.0",
 		"@datashaper/schema": "workspace:^",
 		"@datashaper/tables": "workspace:^",
-		"@datashaper/utilities": "workspace:^",
+		"@datashaper/utilities": "2.3.1",
 		"@datashaper/workflow": "workspace:^",
 		"@essex/components": "^4.2.0",
 		"@essex/hooks": "^4.0.21",
