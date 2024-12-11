@@ -36,7 +36,7 @@
 		"release": "yarn npm publish --tolerate-republish --access public"
 	},
 	"dependencies": {
-		"@datashaper/schema": "workspace:^",
+		"@datashaper/schema": "2.0.0",
 		"lodash-es": "^4.17.21",
 		"moment": "^2.29.4",
 		"papaparse": "^5.4.1"
