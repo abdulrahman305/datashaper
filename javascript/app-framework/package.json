@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@datashaper/guidance": "workspace:^",
-		"@datashaper/react": "workspace:^",
+		"@datashaper/react": "7.0.0",
 		"@datashaper/schema": "workspace:^",
 		"@datashaper/tables": "workspace:^",
 		"@datashaper/utilities": "workspace:^",
