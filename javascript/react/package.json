@@ -36,10 +36,10 @@
 	},
 	"dependencies": {
 		"@datashaper/guidance": "workspace:^",
-		"@datashaper/schema": "workspace:^",
+		"@datashaper/schema": "2.0.0",
 		"@datashaper/tables": "workspace:^",
 		"@datashaper/utilities": "workspace:^",
-		"@datashaper/workflow": "workspace:^",
+		"@datashaper/workflow": "10.0.1",
 		"@essex/charts-react": "^1.1.12",
 		"@essex/components": "^4.2.0",
 		"@essex/styled-components": "^0.0.13",
