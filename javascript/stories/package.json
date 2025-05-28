@@ -45,7 +45,7 @@
 		"@storybook/core-events": "7.0.20",
 		"@storybook/preset-react-webpack": "^7.0.20",
 		"@storybook/react": "7.0.20",
-		"@storybook/react-webpack5": "7.0.20",
+		"@storybook/react-webpack5": "9.0.0",
 		"require-from-string": "^2.0.2",
 		"storybook": "7.6.14",
 		"typescript": "^5.1.3",
