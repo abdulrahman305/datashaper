@@ -28,10 +28,10 @@
 	},
 	"dependencies": {
 		"@datashaper/guidance": "workspace:^",
-		"@datashaper/react": "workspace:^",
+		"@datashaper/react": "7.0.0",
 		"@datashaper/schema": "workspace:^",
 		"@datashaper/tables": "workspace:^",
-		"@datashaper/utilities": "workspace:^",
+		"@datashaper/utilities": "2.3.1",
 		"@datashaper/workflow": "workspace:^",
 		"@essex/components": "^4.2.0",
 		"@monaco-editor/react": "^4.6.0",
@@ -44,7 +44,7 @@
 		"tslib": "^2.5.3"
 	},
 	"devDependencies": {
-		"@essex/scripts": "^24.0.5",
+		"@essex/scripts": "^27.0.0",
 		"@essex/tsconfig-base": "^2.0.0",
 		"@fluentui/react": "^8.110.2",
 		"@fluentui/react-hooks": "^8.6.27",
