@@ -31,7 +31,7 @@
 		"check-deps": "essex check-deps"
 	},
 	"dependencies": {
-		"@datashaper/app-framework": "workspace:^",
+		"@datashaper/app-framework": "0.0.1",
 		"@datashaper/react": "workspace:^",
 		"@datashaper/schema": "workspace:^",
 		"@datashaper/tables": "workspace:^",
