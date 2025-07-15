@@ -43,7 +43,7 @@
 	},
 	"devDependencies": {
 		"@essex/jest-config": "^21.0.22",
-		"@essex/scripts": "^24.0.5",
+		"@essex/scripts": "^27.0.0",
 		"@essex/tsconfig-base": "^2.0.0",
 		"@types/jest": "^29.5.2",
 		"@types/lodash-es": "^4.17.12",
