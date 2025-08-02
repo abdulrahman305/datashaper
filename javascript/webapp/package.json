@@ -35,7 +35,7 @@
 		"@datashaper/react": "workspace:^",
 		"@datashaper/schema": "workspace:^",
 		"@datashaper/tables": "workspace:^",
-		"@datashaper/utilities": "workspace:^",
+		"@datashaper/utilities": "2.3.1",
 		"@datashaper/workflow": "workspace:^",
 		"@essex/components": "^4.2.0",
 		"@essex/hooks": "^4.0.21",
