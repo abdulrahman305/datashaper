@@ -37,8 +37,8 @@
 	"dependencies": {
 		"@datashaper/guidance": "workspace:^",
 		"@datashaper/schema": "2.0.0",
-		"@datashaper/tables": "workspace:^",
-		"@datashaper/utilities": "workspace:^",
+		"@datashaper/tables": "4.0.2",
+		"@datashaper/utilities": "2.3.1",
 		"@datashaper/workflow": "10.0.1",
 		"@essex/charts-react": "^1.1.12",
 		"@essex/components": "^4.2.0",
