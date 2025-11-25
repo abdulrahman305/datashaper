@@ -33,10 +33,10 @@
 	"dependencies": {
 		"@datashaper/app-framework": "0.0.1",
 		"@datashaper/react": "7.0.0",
-		"@datashaper/schema": "workspace:^",
+		"@datashaper/schema": "2.0.0",
 		"@datashaper/tables": "workspace:^",
 		"@datashaper/utilities": "2.3.1",
-		"@datashaper/workflow": "workspace:^",
+		"@datashaper/workflow": "10.0.1",
 		"@essex/components": "^4.2.0",
 		"@essex/hooks": "^4.0.21",
 		"@fluentui/font-icons-mdl2": "^8.5.21",
