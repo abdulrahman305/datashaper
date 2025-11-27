@@ -34,7 +34,7 @@
 		"@datashaper/app-framework": "0.0.1",
 		"@datashaper/react": "7.0.0",
 		"@datashaper/schema": "2.0.0",
-		"@datashaper/tables": "workspace:^",
+		"@datashaper/tables": "4.0.2",
 		"@datashaper/utilities": "2.3.1",
 		"@datashaper/workflow": "10.0.1",
 		"@essex/components": "^4.2.0",
