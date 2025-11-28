@@ -35,7 +35,7 @@
 		"release": "yarn npm publish --tolerate-republish --access public"
 	},
 	"dependencies": {
-		"@datashaper/guidance": "workspace:^",
+		"@datashaper/guidance": "0.2.2",
 		"@datashaper/schema": "2.0.0",
 		"@datashaper/tables": "4.0.2",
 		"@datashaper/utilities": "2.3.1",
